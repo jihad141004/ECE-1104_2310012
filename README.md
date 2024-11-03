@@ -14,7 +14,7 @@ _**Heaven’s Light is Our Guide**_
   ### **Department of Electrical & Computer Engineering**
   ### **Assignments**<br>
   **Course Name:** Computer Programming sessional<br>
-  **Course Code:** ECE 1104
+  **Course Code:** ECE 1103
 </div>
 <br>
 <div align="center">
@@ -34,7 +34,7 @@ _**Heaven’s Light is Our Guide**_
 
 ### **Md. Abdullah al Jayed**
 #### Roll No: 2310012
-#### Regestration No: 
+#### Registration No: 
 #### Department of Electrical and Computer Engineering
 #### Rajshahi University of Engineering and Technology
 #### Rajshahi - 6204
