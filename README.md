@@ -1,4 +1,4 @@
-## ECE-1104_2310012_Assignment
+## ECE-1104_2310012_Lab Reports
 <div align="center">
   
 _**Heaven’s Light is Our Guide**_
@@ -12,7 +12,7 @@ _**Heaven’s Light is Our Guide**_
   
   ## **Rajshahi University of Engineering and Technology** <br> 
   ### **Department of Electrical & Computer Engineering**
-  ### **Assignments**<br>
+  ### **Lab Reports**<br>
   **Course Name:** Computer Programming sessional<br>
   **Course Code:** ECE 1104
 </div>
