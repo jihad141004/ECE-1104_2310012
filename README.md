@@ -14,7 +14,7 @@ _**Heaven’s Light is Our Guide**_
   ### **Department of Electrical & Computer Engineering**
   ### **Assignments**<br>
   **Course Name:** Computer Programming sessional<br>
-  **Course Code:** ECE 1103
+  **Course Code:** ECE 1104
 </div>
 <br>
 <div align="center">
