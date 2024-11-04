@@ -41,6 +41,16 @@ _**Heaven’s Light is Our Guide**_
 
 ---
 </div>
+<div align="center"> 
 
+  
+## INDEX:
+
+| Lab No. | Title | Link |
+| :---: | :---: | :---: |
+| 01 | Basic Problem Solving | [Lab 01](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab1.md)
+
+
+</div>
 
 
