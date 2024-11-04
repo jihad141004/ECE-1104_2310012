@@ -34,7 +34,7 @@ int main(){
 ## *Output :* 
 *Doing a Sum*
 <p align="center">
-<img alt="FECE Code_Lab Reports_Problem1by Mahathir_2310024 exe  11_3_2024 8_06_19 PM" src="https://github.com/user-attachments/assets/c7db6759-ea2b-448d-9be2-6f98645a5db2">
+<img alt="2310012_lab1_prob_1" src="https://github.com/user-attachments/assets/c7db6759-ea2b-448d-9be2-6f98645a5db2">
 </p>
 
 ## *Discussion :*
@@ -77,7 +77,7 @@ int main(){
 ## *Output :* 
 *convertING specified days into years, weeks and days*
 <p align="center">
-<img alt="FECE Code_Lab Reports_Problem1by Mahathir_2310024 exe  11_3_2024 8_06_19 PM" src="https://github.com/user-attachments/assets/548948b6-a725-47ad-bfe3-a5cb8c0de44f">
+<img alt="2310012_lab1_prob_2" src="https://github.com/user-attachments/assets/548948b6-a725-47ad-bfe3-a5cb8c0de44f">
 </p>
 
 ## *Discussion :*
@@ -118,7 +118,7 @@ int main(){
 ## *Output :* 
 *calculating distance*
 <p align="center">
-<img alt="FECE Code_Lab Reports_Problem1by Mahathir_2310024 exe  11_3_2024 8_06_19 PM" src="https://github.com/user-attachments/assets/8a9378b3-02ae-4e13-9ae0-b9ce41973cd1">
+<img alt="2310012_lab1_prob_3" src="https://github.com/user-attachments/assets/8a9378b3-02ae-4e13-9ae0-b9ce41973cd1">
 </p>
 
 ## *Discussion :*
@@ -164,7 +164,7 @@ int main(){
 ## *Output :* 
 *Calculating Average*
 <p align="center">
-<img alt="FECE Code_Lab Reports_Problem1by Mahathir_2310024 exe  11_3_2024 8_06_19 PM" src="https://github.com/user-attachments/assets/954d014b-f860-4891-8296-e42ea18a9983">
+<img alt="2310012_lab1_prob_4" src="https://github.com/user-attachments/assets/954d014b-f860-4891-8296-e42ea18a9983">
 </p>
 
 ## *Discussion :*
@@ -214,12 +214,12 @@ int main(){
 ## *Output :* 
 *checking prime or not*
 <p align="center">
-<img alt="FECE Code_Lab Reports_Problem1by Mahathir_2310024 exe  11_3_2024 8_06_19 PM" src="https://github.com/user-attachments/assets/0081e554-4b9d-4954-9b88-e9069c39de92">
+<img alt="2310012_lab1_prob_5" src="https://github.com/user-attachments/assets/0081e554-4b9d-4954-9b88-e9069c39de92">
 </p>
 
 ## *Discussion :*
 <div align="justify">
-In this Problem, this program accepts and integer and check if it is prime or not
+In this Problem, this program accepts an integer and check if it is prime or not
 </div>
 ---
 ---
@@ -254,7 +254,7 @@ solve();
 ## *Output :* 
 *Calculating sum*
 <p align="center">
-<img alt="FECE Code_Lab Reports_Problem1by Mahathir_2310024 exe  11_3_2024 8_06_19 PM" src="https://github.com/user-attachments/assets/4d751d59-6762-42d9-8610-c564ab688c6d">
+<img alt="2310012_lab1_prob_6" src="https://github.com/user-attachments/assets/4d751d59-6762-42d9-8610-c564ab688c6d">
 </p>
 
 ## *Discussion :*
