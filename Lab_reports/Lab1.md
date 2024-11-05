@@ -41,7 +41,7 @@ int main(){
 <div align="justify">
 In this Problem, this program accepts two integars from user & then calculates its sum.
 </div>
----
+
 
 ## *Problem 2 :*
 <div align="justify">
@@ -84,7 +84,7 @@ int main(){
 <div align="justify">
 In this Problem, this program accepts Days and convert it into Years, weeks and days.
   
----
+
 
 ## *Problem 3 :*
 <div align="justify">
@@ -125,9 +125,7 @@ int main(){
 <div align="justify">
 In this Problem, this program accepts two points and calculate its distance.
 </div>
----
 
----
 
 ## *Problem 4 :*
 <div align="justify">
@@ -172,8 +170,7 @@ int main(){
 In this Problem, this program accepts two item's weight and number of purchases
 (floating point values) and calculates their average value..
 </div>
----
----
+
 
 ## *Problem 5 :*
 <div align="justify">
@@ -222,7 +219,6 @@ int main(){
 In this Problem, this program accepts an integer and check if it is prime or not
 </div>
 ---
----
 
 ## *Problem 6 :*
 <div align="justify">
@@ -261,4 +257,3 @@ solve();
 <div align="justify">
 In this Problem, it calculates the sum of all even number between 1 to 100
 </div>
----
