@@ -12,7 +12,7 @@
 sum of the two integers.
 </div>
 
-## *Input :*
+## *Code :*
 ```C
 #include<stdio.h>
 void solve(){
@@ -49,7 +49,7 @@ In this Problem, this program accepts two integars from user & then calculates i
 (Note: Ignore leap year.)
 </div>
 
-## *Input :*
+## *Code :*
 ```C
 #include<stdio.h>
 void solve(){
@@ -91,7 +91,7 @@ In this Problem, this program accepts Days and convert it into Years, weeks and 
  Write a C program to calculate the distance between two points.
 </div>
 
-## *Input :*
+## *Code :*
 ```C
 #include<stdio.h>
 #include<math.h>
@@ -133,7 +133,7 @@ In this Problem, this program accepts two points and calculate its distance.
 (floating point values) and calculates their average value..
 </div>
 
-## *Input :*
+## *Code :*
 ```C
 #include<stdio.h>
 
@@ -177,7 +177,7 @@ In this Problem, this program accepts two item's weight and number of purchases
   Write a C program that Check if a given number is prime or not.
 </div>
 
-## *Input :*
+## *Code :*
 ```C
 #include<stdio.h>
 
@@ -224,7 +224,7 @@ In this Problem, this program accepts an integer and check if it is prime or not
 <div align="justify">
 Add the sum of all even numbers (range:1-100)</div>
 
-## *Input :*
+## *Code :*
 ```C
 #include<stdio.h>
 
