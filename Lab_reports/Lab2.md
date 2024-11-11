@@ -1,4 +1,4 @@
-## *Lab No : 03*
+## *Lab No : 02*
 
 ## *Lab Workout : Solve some basic problem in c*
 
@@ -12,7 +12,7 @@
 with a number which will repeat a number in a row.
 </div>
 
-## *Input :*
+## *Code :*
 ```C
 #include <stdio.h>
 void solve()
@@ -37,7 +37,7 @@ int main()
 ## *Output :* 
 *Printing right angle triangle*
 <p align="center">
-<img alt="2310012_lab1_prob_1" src="https://github.com/user-attachments/assets/3e45dba4-33c7-4039-93a1-a17c5ffc18f6">
+<img alt="2310012_lab2_prob_1" src="https://github.com/user-attachments/assets/3e45dba4-33c7-4039-93a1-a17c5ffc18f6">
 </p>
 
 ## *Discussion :*
@@ -49,116 +49,130 @@ with a number which will repeat a number in a row.
 
 ## *Problem 2 :*
 <div align="justify">
- Write a C program to convert specified days into years, weeks and days.
-(Note: Ignore leap year.)
+ Write a C program to make such a pattern like a pyramid with a
+number which will repeat the number in the same row.
+
 </div>
 
-## *Input :*
+## *Code :*
 ```C
-#include<stdio.h>
-void solve(){
-    long long days;
-    printf("Enter the number of days:    ");
-    scanf("%lld", &days);
-    long long year = days/365;
-    days%=365;
-    int weeks = days/7;
-    days%=7;
-
-    printf("Year  : %lld\n", year);
-    printf("Weeks : %d\n", weeks);
-    printf("Days  : %lld\n", days);
-
+#include <stdio.h>
+void solve()
+{
+  int n = 4;
+  for (int i = 1; i <= n; i++)
+  {
+    for (int j = 1; j <= n; j++)
+    {
+      if (i + j >= n + 1)
+      {
+        printf("%d ", i);
+      }
+      else
+      {
+        printf(" ");
+      }
+    }
+    printf("\n");
+  }
 }
-
-int main(){
-    solve();
+int main()
+{
+  solve();
 }
 
 ```
 
 
 ## *Output :* 
-*convertING specified days into years, weeks and days*
+*Printing a Pyramid with number*
 <p align="center">
-<img alt="2310012_lab1_prob_2" src="https://github.com/user-attachments/assets/548948b6-a725-47ad-bfe3-a5cb8c0de44f">
+<img alt="2310012_lab2_prob_2" src="https://github.com/user-attachments/assets/e0c49797-b114-41b1-8e24-9deaec5ae500">
 </p>
 
 ## *Discussion :*
 <div align="justify">
-In this Problem, this program accepts Days and convert it into Years, weeks and days.
+In this Problem,we made a C program to make such a pattern like a pyramid with a
+number which will repeat the number in the same row.
+
   
-
-
 ## *Problem 3 :*
 <div align="justify">
- Write a C program to calculate the distance between two points.
+Write a C program to display the pattern as a pyramid using
+asterisks, with each row containing an odd number of asterisks
 </div>
 
-## *Input :*
+## *Code :*
 ```C
-#include<stdio.h>
-#include<math.h>
-void solve(){
-    int x1, x2, y1, y2;
-    printf("Input x1:  ");
-    scanf("%d", &x1);
-    printf("Input y1:  ");
-    scanf("%d", &y1);
-    printf("Input x2:  ");
-    scanf("%d", &x2);
-    printf("Input y2:  ");
-    scanf("%d", &y2);
+#include <stdio.h>
+void solve()
+{
+  int n = 3;
+  for (int i = 0; i < n; i++)
+  {
+    for (int j = 0; j < 2*n-1; j++)
+    {
+      if (i>=j-n+1 && i+j>=n-1)
+      {
+        printf("*");
+      }
+      else
+      {
+        printf(" ");
+      }
+    }
+    printf("\n");
+  }
+}
+int main()
+{
+  solve();
+}
 
-    double ans = sqrt((x1-x2)*(x1-x2) + (y1-y2)*(y1-y2));
-    printf("Distance: %lf", ans);
-}
-int main(){
-    solve();
-}
 ```
 
 
 ## *Output :* 
-*calculating distance*
+*Printing pyramid with asterisks*
 <p align="center">
-<img alt="2310012_lab1_prob_3" src="https://github.com/user-attachments/assets/8a9378b3-02ae-4e13-9ae0-b9ce41973cd1">
+<img alt="2310012_lab2_prob_3" src="https://github.com/user-attachments/assets/28c9471a-c8f8-416a-946e-255272c8e787">
 </p>
 
 ## *Discussion :*
 <div align="justify">
-In this Problem, this program accepts two points and calculate its distance.
+In this Problem,we made a C program to display the pattern as a pyramid using
+asterisks, with each row containing an odd number of asterisks.
 </div>
 
 
 ## *Problem 4 :*
 <div align="justify">
-  Write a C program that accepts two item's weight and number of purchases
-(floating point values) and calculates their average value..
+  Write a program in C to find the number and sum of all integers
+  between 100 and 200 which are divisible by 9.
+
 </div>
 
-## *Input :*
+## *Code :*
 ```C
-#include<stdio.h>
-
-void solve(){
-    int w1, w2, i1, i2;
-    printf("Weight-Item1  :  ");
-    scanf("%d", &w1);
-    printf("No of Item1   :  ");
-    scanf("%d", &i1);
-    printf("Weight-Item2  :  ");
-    scanf("%d", &w2);
-    printf("No of Item2   :  ");
-    scanf("%d", &i2);
-    double average = (double)(w1*i1 + w2*i2)/(i1+i2);
-    printf("Average value :  %lf ", average);
-
+#include <stdio.h>
+void solve()
+{
+  printf("Numbers between 100 and 200, divisible by 9 :");
+  int sum = 0;
+  for (int i = 100; i <= 200; i++)
+  {
+    if (i % 9 == 0)
+    {
+      printf("%d ", i);
+      sum += i;
+    }
+  }
+  printf("\nSum:  %d", sum);
 }
-int main(){
-    solve();
+int main()
+{
+  solve();
 }
-
 
 ```
 
@@ -166,87 +180,164 @@ int main(){
 ## *Output :* 
 *Calculating Average*
 <p align="center">
-<img alt="2310012_lab1_prob_4" src="https://github.com/user-attachments/assets/954d014b-f860-4891-8296-e42ea18a9983">
+<img alt="2310012_lab2_prob_4" src="https://github.com/user-attachments/assets/0ef5bd9d-82ce-4d6a-8540-c7d332157b5f">
 </p>
 
 ## *Discussion :*
 <div align="justify">
-In this Problem, this program accepts two item's weight and number of purchases
-(floating point values) and calculates their average value..
+In this Problem, we created a program in C to find the number and sum of all integers
+between 100 and 200 which are divisible by 9.
 </div>
 
 
 ## *Problem 5 :*
 <div align="justify">
-  Write a C program that Check if a given number is prime or not.
+  Write a program in C to display a pattern like a diamond.
 </div>
 
-## *Input :*
+## *Code :*
 ```C
-#include<stdio.h>
-
-void solve(){
-    int n;
-    printf("Enter the number:  ");
-    scanf("%d", &n);
-    if(n<2){
-        printf("NOT Prime\n");
-        return;
+#include <stdio.h>
+void solve()
+{
+  int n = 5;
+  for (int i = 0; i < n; i++)
+  {
+    for (int j = 0; j < 2 * n - 1; j++)
+    {
+      if (i >= j - n + 1 && i + j >= n - 1)
+      {
+        printf("*");
+      }
+      else
+      {
+        printf(" ");
+      }
     }
-    for(int i = 2; i*i<=n; i++){
-        if(n%i==0){
-            printf("NOT Prime\n");
-            return;
-        }
+    printf("\n");
+  }
+
+  n--;
+  for (int i = 0; i < n; i++)
+  {
+    printf(" ");
+    for (int j = 0; j < 2 * n - 1; j++)
+    {
+      if (i <= j && i + j <= 2 * n - 2)
+      {
+        printf("*");
+      }
+      else
+      {
+        printf(" ");
+      }
     }
-
-    printf("Prime\n");
+    printf("\n");
+  }
 }
-
-int main(){
-     solve();
+int main()
+{
+  solve();
 }
-
-
 
 ```
 
 
 ## *Output :* 
-*checking prime or not*
+*Printing Diamond shape*
 <p align="center">
-<img alt="2310012_lab1_prob_5" src="https://github.com/user-attachments/assets/0081e554-4b9d-4954-9b88-e9069c39de92">
+<img alt="2310012_lab2_prob_5" src="https://github.com/user-attachments/assets/e6f9a149-5b52-4ba4-9cda-c20f1e9247cb">
 </p>
 
 ## *Discussion :*
 <div align="justify">
-In this Problem, this program accepts an integer and check if it is prime or not
+In this Problem, we created   a program in C to display a pattern like a diamond.
+
 </div>
----
+
 
 ## *Problem 6 :*
 <div align="justify">
-Add the sum of all even numbers (range:1-100)</div>
+ Write a C program to check whether a number is a palindrome or not.
+</div>
 
-## *Input :*
+## *Code :*
 ```C
-#include<stdio.h>
-
-void solve(){
-    int n = 100/2;
-    // s = n/2{2a+(n-1)d}. Where a is the first number and d is the difference
-
-
-    int ans = (n/2*(2*2+ (n-1)*2));
-    printf("sum of all even numbers (range:1-100) :  %d", ans);
+#include <stdio.h>
+void solve()
+{
+  int n;
+  printf("Enter the Number: ");
+  scanf("%d", &n);
+  int copy = n, reverse = 0;
+  while (n)
+  {
+    int rem = n % 10;
+    reverse = (reverse * 10) + rem;
+    n /= 10;
+  }
+  printf("%d ", copy);
+  if (copy == reverse)
+  {
+    printf("is a palindrome number. \n");
+  }
+  else
+  {
+    printf(" is not a palindrome number. \n");
+  }
+}
+int main()
+{
+  solve();
 }
 
-int main(){
-solve();
+```
+
+
+## *Output :* 
+*Checking Palindrome or not*
+<p align="center">
+<img alt="2310012_lab2_prob_6" src="https://github.com/user-attachments/assets/8fc5fc60-e94c-491d-aedf-f71bab89cd78">
+</p>
+
+## *Discussion :*
+<div align="justify">
+In this Problem, we craeted a program that checks if the given number in palindrome or not
+</div>
+
+
+## *Problem 7 :*
+<div align="justify">
+Write a C program that calculates the sum of even and odd numbers from 1 to
+50 using do-while loops.
+
+## *Code :*
+```C
+#include <stdio.h>
+void solve()
+{
+  int i = 1;
+  int odd_sum = 0, even_sum = 0;
+  do
+  {
+    if (i & 1)
+    {
+      odd_sum += i;
+    }
+    else
+    {
+      even_sum += i;
+    }
+    i++;
+  } while (i <= 50);
+
+  printf("Sum of Even number: %d\n", even_sum);
+  printf("Sum of Odd number : %d\n", odd_sum);
 }
-
-
-
+int main()
+{
+  solve();
+}
 
 ```
 
@@ -254,10 +345,64 @@ solve();
 ## *Output :* 
 *Calculating sum*
 <p align="center">
-<img alt="2310012_lab1_prob_6" src="https://github.com/user-attachments/assets/4d751d59-6762-42d9-8610-c564ab688c6d">
+<img alt="2310012_lab2_prob_7" src="https://github.com/user-attachments/assets/1efb6614-095e-4a7b-a073-30cc18ec5d5a">
 </p>
 
 ## *Discussion :*
 <div align="justify">
-In this Problem, it calculates the sum of all even number between 1 to 100
+In this Problem, we created a C program that calculates the sum of even and odd numbers from 1 to
+50 using do-while loops0
 </div>
+
+
+## *Problem 8 :*
+<div align="justify">
+8. Write a C program to find the largest of three numbers.
+</div>
+
+## *Code :*
+```C
+#include <stdio.h>
+
+void solve()
+{
+  int a, b, c;
+  printf("1st Number : ");
+  scanf("%d", &a);
+  printf("2nd Number : ");
+  scanf("%d", &b);
+  printf("3rd Number : ");
+  scanf("%d", &c);
+  if (a >= b && a >= c)
+  {
+    printf("The 1st Number is the greatest among the three.\n");
+  }
+  else if (b >= c && b >= a)
+  {
+    printf("The 2nd Number is the greatest among the three.\n");
+  }
+  else
+  {
+    printf("The 3rd Number is the greatest among the three.\n");
+  }
+}
+
+int main()
+{
+  solve();
+}
+```
+
+
+## *Output :* 
+*Checking the largest number*
+<p align="center">
+<img alt="2310012_lab2_prob_8" src="https://github.com/user-attachments/assets/4503e75c-3c86-49b1-85a2-8a8aebd1a8b8">
+</p>
+
+## *Discussion :*
+<div align="justify">
+In this Problem,we created a C program to find the largest of three numbers.
+
+</div>
+
