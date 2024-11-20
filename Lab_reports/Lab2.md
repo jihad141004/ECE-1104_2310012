@@ -1,6 +1,6 @@
 ## *Lab No : 02*
 
-## *Lab Workout : Solve some basic problem in c*
+## *Lab Workout : Solve some basic Pattern problems in c*
 
 ## *Submission Date : November 11, 2024*
 
