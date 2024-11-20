@@ -50,6 +50,7 @@ _**Heaven’s Light is Our Guide**_
 | :---: | :---: | :---: |
 | 01 | Basic Problem Solving | [Lab 01](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab1.md)
 | 02 | Basic Problem Solving | [Lab 02](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab2.md)
+| 03 | Basic Problem Solving | [Lab 02](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab3.md)
 
 
 </div>
