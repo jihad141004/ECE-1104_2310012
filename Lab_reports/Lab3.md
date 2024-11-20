@@ -38,7 +38,7 @@ int main(){
 ## *Output :*  
 *Printing Right Half Pyramid*  
 <p align="center">  
-<img alt="output_problem_1" src=""/>  
+<img alt="output_problem_1" src="https://github.com/user-attachments/assets/4f4f0551-2d95-4c22-98a2-57b16f6292c6"/>  
 </p>  
 
 ---
@@ -74,7 +74,7 @@ int main(){
 ## *Output :*  
 *Printing Inverted Left Half Pyramid*  
 <p align="center">  
-<img alt="output_problem_2" src=""/>  
+<img alt="output_problem_2" src="https://github.com/user-attachments/assets/f98d51a5-f245-486d-b77f-cacec7d18929"/>  
 </p>  
 
 ---
@@ -111,7 +111,7 @@ int main(){
 ## *Output :*  
 *Printing Inverted Full Pyramid*  
 <p align="center">  
-<img alt="output_problem_3" src=""/>  
+<img alt="output_problem_3" src="https://github.com/user-attachments/assets/bc3e137d-8dd8-46bf-a588-11b818fc85ae"/>  
 </p>  
 
 ---
@@ -147,7 +147,7 @@ int main(){
 ## *Output :*  
 *Printing Rhombus Pattern*  
 <p align="center">  
-<img alt="output_problem_4" src=""/>  
+<img alt="output_problem_4" src="https://github.com/user-attachments/assets/aaf567ae-993a-4ada-b5cd-b57917b71f4f"/>  
 </p>  
 
 ---
@@ -183,7 +183,7 @@ int main(){
 ## *Output :*  
 *Printing Hollow Square*  
 <p align="center">  
-<img alt="output_problem_5" src=""/>  
+<img alt="output_problem_5" src="https://github.com/user-attachments/assets/37f34672-6c8a-43fe-9ab6-6608b6f337ef"/>  
 </p>  
 
 ---
@@ -221,7 +221,7 @@ int main() {
 ## *Output :*  
 *Printing Hollow Triangle*  
 <p align="center">  
-<img alt="output_problem_6" src=""/>  
+<img alt="output_problem_6" src="https://github.com/user-attachments/assets/c4b2d5c3-9002-4e38-8f89-f0681c9cbc18"/>  
 </p>  
 
 ---
@@ -259,6 +259,6 @@ int main() {
 ## *Output :*  
 *Printing Inverted Hollow Triangle*  
 <p align="center">  
-<img alt="output_problem_7" src=""/>  
+<img alt="output_problem_7" src="https://github.com/user-attachments/assets/c8943d80-5643-49bb-a7ea-ce9e942b7c46"/>  
 </p>  
 
