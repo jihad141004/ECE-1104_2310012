@@ -46,12 +46,12 @@ _**Heaven’s Light is Our Guide**_
   
 ## INDEX:
 
-| Lab No. | Title | Link |
-| :---: | :---: | :---: |
-| 01 | Basic Problem Solving  | [Lab 01](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab1.md)
-| 02 | Basic Pattern Printing | [Lab 02](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab2.md)
-| 03 | Basic Pattern Printing | [Lab 03](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab3.md)
-| 04 | Opperations on Arrays  | [Lab 04](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab4.md)
+| Lab No. | Title | Link | codeforce |
+| :---: | :---: | :---: | :---: |
+| 01 | Basic Problem Solving  | [Lab 01](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab1.md)|
+| 02 | Basic Pattern Printing | [Lab 02](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab2.md)|
+| 03 | Basic Pattern Printing | [Lab 03](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab3.md)|
+| 04 | Opperations on Arrays  | [Lab 04](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab4.md)|   14
 
 
 </div>
