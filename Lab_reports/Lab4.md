@@ -2,7 +2,7 @@
 
 ## *Lab No : 04*
 
-## *Lab Workout : Opperation on Arrays*
+## *Lab Workout : Opperations on Arrays*
 
 ## *Submission Date : 25 November, 2024*
 
