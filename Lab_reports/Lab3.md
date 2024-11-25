@@ -2,7 +2,7 @@
 
 ## *Lab Workout : Pattern Problems in C*
 
-## *Submission Date : 20 Novermber, 2024*
+## *Submission Date : 19 Novermber, 2024*
 
 ---
 
