@@ -56,8 +56,6 @@ int main() {
 ```
 
 ## *Output :* 
-*Output description goes here*
-
 <p align="center">
 <img alt="Problem 1 output image" src="https://github.com/user-attachments/assets/50cc7f94-4012-46b0-a968-aca56b19d4cd">
 </p>
@@ -114,7 +112,7 @@ int main() {
 ```
 
 ## *Output :* 
-*Output description goes here*
+
 
 <p align="center">
 <img alt="Problem 2 output image" src="https://github.com/user-attachments/assets/da4dd91e-5149-4227-9e47-695a2364ec14">
@@ -166,7 +164,7 @@ int main() {
 ```
 
 ## *Output :* 
-*Output description goes here*
+
 
 <p align="center">
 <img alt="Problem 3 output image" src="https://github.com/user-attachments/assets/816a9df6-20f7-4178-a8c8-deba4a1b62a6">
@@ -217,7 +215,7 @@ int main() {
 ```
 
 ## *Output :* 
-*Output description goes here*
+
 
 <p align="center">
 <img alt="Problem 4 output image" src="https://github.com/user-attachments/assets/86865a23-041e-4cbb-8eb0-9d6b76231e58">
@@ -278,7 +276,7 @@ int main() {
 ```
 
 ## *Output :* 
-*Output description goes here*
+
 
 <p align="center">
 <img alt="Problem 5 output image" src="https://github.com/user-attachments/assets/efb67323-1afb-4726-95bf-8d1bd0aeec0a">
@@ -319,7 +317,7 @@ int main() {
 ```
 
 ## *Output :* 
-*Output description goes here*
+
 
 <p align="center">
 <img alt="Problem 6 output image" src="https://github.com/user-attachments/assets/fcbb2871-e5eb-4929-9555-21a6fdd036f8">
@@ -372,7 +370,7 @@ int main() {
 ```
 
 ## *Output :* 
-*Output description goes here*
+
 
 <p align="center">
 <img alt="Problem 7 output image" src="https://github.com/user-attachments/assets/3ccb45d6-f949-4833-9364-d2e0bce3ef74">
@@ -433,7 +431,7 @@ int main() {
 ```
 
 ## *Output :* 
-*Output description goes here*
+
 
 <p align="center">
 <img alt="Problem 8 output image" src="https://github.com/user-attachments/assets/678be24f-a221-408e-8ab2-228038b9e3c8">
