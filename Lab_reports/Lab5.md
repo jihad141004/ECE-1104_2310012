@@ -8,7 +8,7 @@
 
 
 
-## *Lab No : 04*
+## *Lab No : 05*
 
 ## *Lab Workout : Operations on Arrays*
 
