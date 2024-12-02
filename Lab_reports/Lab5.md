@@ -5,7 +5,10 @@
 <p align="center">
 <img alt="Problem 1 output image" src="https://github.com/user-attachments/assets/f707045f-908c-4a7b-8c5e-20d880de9c2f">
 </p>
-## *Lab No : 05*
+
+
+
+## *Lab No : 04*
 
 ## *Lab Workout : Operations on Arrays*
 
