@@ -1,4 +1,10 @@
+## *CODEFORCES*
 
+## *Number of solves: 14*
+## *From 20 November 2024    To        25 November 2024*
+<p align="center">
+<img alt="Problem 1 output image" src="https://github.com/user-attachments/assets/f707045f-908c-4a7b-8c5e-20d880de9c2f">
+</p>
 ## *Lab No : 05*
 
 ## *Lab Workout : Operations on Arrays*
