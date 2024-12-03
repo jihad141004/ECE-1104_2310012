@@ -52,7 +52,7 @@ _**Heaven’s Light is Our Guide**_
 | 02 | Basic Pattern Printing | [Lab 02](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab2.md)|
 | 03 | Basic Pattern Printing | [Lab 03](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab3.md)|
 | 04 | Opperations on Arrays  | [Lab 04](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab4.md)|   14
-| 05 | Opperations on Arrays  | [Lab 05](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab5.md)|   21
+| 05 |        Functions       | [Lab 05](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab5.md)|   21
 
 
 </div>
