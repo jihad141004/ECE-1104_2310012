@@ -10,7 +10,7 @@
 
 ## *Lab No : 05*
 
-## *Lab Workout : Operations on Arrays*
+## *Lab Workout : Functions*
 
 ## *Submission Date : 3 December, 2024*
 
