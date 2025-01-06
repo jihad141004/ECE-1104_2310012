@@ -54,7 +54,7 @@ _**Heaven’s Light is Our Guide**_
 | 04 | Opperations on Arrays  | [Lab 04](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab4.md)|   14
 | 05 |        Functions       | [Lab 05](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab5.md)|   21
 | 06 |        Recursions      | [Lab 06](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab6.md)|   07
-| 06 |        Pointers        | [Lab 07](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab6.md)|   
+| 06 |        Pointers        | [Lab 07](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab7.md)|   
 
 
 </div>
