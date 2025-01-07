@@ -1,4 +1,19 @@
+## *CODEFORCES*
 
+## *Number of solves: 37*
+## *From 13 December 2024    To        6 January 2025*
+<p align="center">
+<img alt="Problem 1 output image" src="https://github.com/user-attachments/assets/fce7d08e-0dfb-4e43-bd88-0039cd0707e0"/>
+</p>
+<p align="center">
+<img alt="Problem 1 output image" src="https://github.com/user-attachments/assets/5f0de7b9-a084-4020-b138-3cd6e31bc2af"/>
+</p>
+<p align="center">
+<img alt="Problem 1 output image" src="https://github.com/user-attachments/assets/a625de24-f322-4cac-a7a2-05d098d50a1e"/>
+</p>
+<p align="center">
+<img alt="Problem 1 output image" src="https://github.com/user-attachments/assets/00961cbf-0518-4171-9b22-1e5ac6a89b75"/>
+</p>
 ## *Lab No : 07*
 
 ## *Lab Workout : Pointers*
