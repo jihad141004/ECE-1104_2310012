@@ -1,7 +1,7 @@
 ## *CODEFORCES*
 
-## *Number of solves: 21*
-## *From 26 November 2024    To        2 December 2024*
+## *Number of solves: 37*
+## *From 13 December 2024    To        6 January 2025*
 <p align="center">
 <img alt="Problem 1 output image" src="https://github.com/user-attachments/assets/fce7d08e-0dfb-4e43-bd88-0039cd0707e0"/>
 </p>
