@@ -1,8 +1,16 @@
+## *CODEFORCES*
+
+## *Number of solves: 37*
+## *From 7 January 2025   To        13 January 2025*
+<p align="center">
+<img alt="Problem 1 output image" src="https://github.com/user-attachments/assets/de1eeb47-1f3a-4c93-940b-869a1588d176"/>
+</p>
+
 ## *Lab No : 08*
 
 ## *Lab Workout : Programming Exercises*
 
-## *Submission Date : {date_today}*
+## *Submission Date : 14 January, 2025*
 
 ---
 
