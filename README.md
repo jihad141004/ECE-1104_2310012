@@ -55,7 +55,7 @@ _**Heaven’s Light is Our Guide**_
 | 05 |        Functions       | [Lab 05](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab5.md)|   21
 | 06 |        Recursions      | [Lab 06](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab6.md)|   07
 | 07 |        Pointers        | [Lab 07](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab7.md)|   37
-| 08 | Programming Exercises  | [Lab 08](https://github.com/jihad141004/ECE-1104_2310012/edit/main/Lab_reports/Lab8.md)|   11
+| 08 | Programming Exercises  | [Lab 08](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab8.md)|   11
 
 
 </div>
