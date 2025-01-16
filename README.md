@@ -33,8 +33,9 @@ _**Heaven’s Light is Our Guide**_
 ## Submitted by:
 
 ### **Md. Abdullah al Jayed**
+### [Codeforces](https://codeforces.com/profile/joseph)
 #### Roll No: 2310012
-#### Registration No: 
+#### Registration No: 1065
 #### Department of Electrical and Computer Engineering
 #### Rajshahi University of Engineering and Technology
 #### Rajshahi - 6204
