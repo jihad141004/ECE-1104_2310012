@@ -33,7 +33,7 @@ int main()
 
 ## *Output :* 
 <p align="center">
-<img alt="Problem 1 output image" src="">
+<img alt="Problem 1 output image" src="https://github.com/user-attachments/assets/b95438d8-f4c0-4ee9-8feb-ba4ebedb22ca">
 </p>
 
 ## *Discussion :*
@@ -67,7 +67,7 @@ int main()
 
 ## *Output :* 
 <p align="center">
-<img alt="Problem 2 output image" src="">
+<img alt="Problem 2 output image" src="https://github.com/user-attachments/assets/6f6c5dcb-47cb-472d-99ed-e03a88219bcc">
 </p>
 
 ## *Discussion :*
@@ -107,7 +107,7 @@ int main()
 
 ## *Output :* 
 <p align="center">
-<img alt="Problem 3 output image" src="">
+<img alt="Problem 3 output image" src="https://github.com/user-attachments/assets/5c974c54-f5fd-4d1c-b82d-1fb353c8b1b9">
 </p>
 
 ## *Discussion :*
@@ -148,7 +148,7 @@ int main()
 
 ## *Output :* 
 <p align="center">
-<img alt="Problem 4 output image" src="">
+<img alt="Problem 4 output image" src="https://github.com/user-attachments/assets/16a3a75e-dc12-4041-a97d-f572639bba19">
 </p>
 
 ## *Discussion :*
@@ -194,7 +194,7 @@ int main()
 
 ## *Output :* 
 <p align="center">
-<img alt="Problem 5 output image" src="">
+<img alt="Problem 5 output image" src="https://github.com/user-attachments/assets/ebe6d102-2853-4c4a-ae15-876d2e9e58aa">
 </p>
 
 ## *Discussion :*
@@ -246,7 +246,7 @@ int main()
 
 ## *Output :* 
 <p align="center">
-<img alt="Problem 6 output image" src="">
+<img alt="Problem 6 output image" src="https://github.com/user-attachments/assets/4a1c6cc6-243e-4266-9e3a-1d715609448a">
 </p>
 
 ## *Discussion :*
