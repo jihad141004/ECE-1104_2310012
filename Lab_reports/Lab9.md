@@ -1,9 +1,9 @@
 ## *CODEFORCES*
 
-## *Number of solves: 09*
+## *Number of solves: 10*
 ## *From 14 January 2025   To        20 January 2025*
 <p align="center">
-<img alt="code force output image" src="https://github.com/user-attachments/assets/11e466ba-2c55-46c1-bd2c-03629b388245"/>
+<img alt="code force output image" src="https://github.com/user-attachments/assets/8a19a5a3-bf43-456d-99e2-880d64908e50"/>
 <div align="center"> 
     
 [submissions](https://codeforces.com/submissions/joseph)
