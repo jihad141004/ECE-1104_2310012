@@ -1,8 +1,8 @@
-## *Lab No : 08*
+## *Lab No : 09*
 
 ## *Lab Workout : Programming Exercises*
 
-## *Submission Date : 14 January, 2025*
+## *Submission Date : 21 January, 2025*
 
 ---
 
@@ -11,6 +11,23 @@
 
 ## *Code :*
 ~~~C
+#include <stdio.h>
+void solve()
+{
+    char str[40];
+    printf("Enter the String:   ");
+    scanf("%[^\n]", str);
+    int i = 0;
+    while (str[i] != '\0')
+    {
+        i++;
+    }
+    printf("Length: %d", i);
+}
+int main()
+{
+    solve();
+}
 
 ~~~
 
@@ -29,6 +46,22 @@
 
 ## *Code :*
 ~~~C
+#include <stdio.h>
+#include <string.h>
+void solve()
+{
+    char str[40];
+    printf("Input the string : ");
+    scanf("%[^\n]", str);
+    for (int i = 0; str[i] != '\0'; i++)
+    {
+        printf("%c ", str[i]);
+    }
+}
+int main()
+{
+    solve();
+}
 
 ~~~
 
@@ -47,6 +80,28 @@
 
 ## *Code :*
 ~~~C
+#include <stdio.h>
+#include <string.h>
+void solve()
+{
+    char str[40];
+    printf("Input the string : ");
+    scanf("%[^\n]", str);
+    int i = 0;
+    while (str[i] != '\0')
+    {
+        i++;
+    }
+    i--;
+    for (i; i >= 0; i--)
+    {
+        printf("%c ", str[i]);
+    }
+}
+int main()
+{
+    solve();
+}
 
 ~~~
 
@@ -65,6 +120,29 @@
 
 ## *Code :*
 ~~~C
+#include <stdio.h>
+#include <string.h>
+void solve()
+{
+    char str[40];
+    printf("Input the string : ");
+    scanf("%[^\n]", str);
+    int count = 0;
+    for (int i = 0; str[i] != '\0'; i++)
+    {
+        if (str[i] == ' ')
+        {
+            count++;
+        }
+    }
+    count++;
+
+    printf("Number of words:  %d ", count);
+}
+int main()
+{
+    solve();
+}
 
 ~~~
 
@@ -83,6 +161,34 @@
 
 ## *Code :*
 ~~~C
+#include <stdio.h>
+#include <string.h>
+
+void solve()
+{
+    char str1[40], str2[40];
+    printf("Input the 1st string:  ");
+    scanf("%[^\n]", str1);
+    getchar();
+    printf("Input the 2nd string:  ");
+    scanf("%[^\n]", str2);
+
+    for (int i = 0; str1[i] != '\0'; i++)
+    {
+        if (str1[i] != str2[i])
+        {
+            printf("Strings are not equal\n");
+            return;
+        }
+    }
+    printf("Strings are equal\n");
+}
+
+int main()
+{
+    solve();
+    return 0;
+}
 
 ~~~
 
@@ -101,6 +207,40 @@
 
 ## *Code :*
 ~~~C
+#include <stdio.h>
+#include <string.h>
+void solve()
+{
+    char str[40];
+    printf("Input the string:  ");
+    scanf("%[^\n]", str);
+    int digit = 0, alpha = 0, special = 1;
+    for (int i = 0; str[i] != '\0'; i++)
+    {
+        if (str[i] >= '0' && str[i] <= '9')
+        {
+            digit++;
+        }
+        else if (str[i] >= 'a' && str[i] <= 'z')
+        {
+            alpha++;
+        }
+        else if (str[i] >= 'A' && str[i] <= 'Z')
+        {
+            alpha++;
+        }
+        else
+        {
+            special++;
+        }
+    }
+
+    printf("Number of alphabets :  %d\nNumber of digits: %d \nNumber of speical char:%d", alpha, digit, special);
+}
+int main()
+{
+    solve();
+}
 
 ~~~
 
