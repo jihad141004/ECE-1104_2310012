@@ -167,3 +167,23 @@ int main() {
 <div align="justify"> This program defines a structure "Car" to store car details. It inputs data for three cars and calculates the total rental cost based on user-specified rental days. </div>
 
 ---
+## *Problem 4 :*
+<div align="justify"> Differentiate between union, structure, and enumeration with real-life examples. </div>
+
+## *Comparison Table :*
+
+| Feature        | Structure | Union | Enumeration |
+|--------------|------------|--------|--------------|
+| Memory Allocation | Each member gets its own memory space | All members share the same memory space | Uses an integer type to represent symbolic constants |
+| Size | Sum of all member sizes | Size of the largest member | Size of an integer |
+| Usage | Used for grouping related variables | Used for memory-efficient data storage | Used for defining named integer constants |
+| Access | All members can be accessed independently | Only one member can be used at a time | Values are constant and cannot be modified |
+| Example | A `struct Car` containing brand, model, and price fields | A `union Data` where a variable can be an int, float, or char | An `enum Color` defining red, green, and blue as named values |
+
+## *Real-Life Examples :*
+
+- **Structure**: A `struct Car` that holds details like brand, model, and price.
+- **Union**: A `union Measurement` that stores height in inches or centimeters but not both simultaneously.
+- **Enumeration**: An `enum Days` that represents days of the week as integer constants.
+
+---
