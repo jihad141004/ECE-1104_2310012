@@ -11,7 +11,7 @@
 </p>
 
 
-## *Lab No : 11*
+## *Lab No : 10*
 
 ## *Lab Workout : Programming Exercises*
 
