@@ -58,7 +58,8 @@ _**Heaven’s Light is Our Guide**_
 | 07 |        Pointers        | [Lab 07](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab7.md)|   37
 | 08 | Programming Exercises  | [Lab 08](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab8.md)|   11
 | 09 | String Related problems| [Lab 09](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab9.md)|   10
-| 09 |     String             | [Lab 10](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab10.md)|   15
+| 10 |     String             | [Lab 10](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab10.md)|   15
+| 11 |     Structure          | [Lab 11](https://github.com/jihad141004/ECE-1104_2310012/blob/main/Lab_reports/Lab11.md)|   02
 
 
 </div>
