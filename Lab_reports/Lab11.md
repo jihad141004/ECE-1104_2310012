@@ -1,8 +1,23 @@
-## *Lab No : 08*
+## *CODEFORCES*
+
+## *Number of solves: 15*
+## *From 5 February 2025   To        10 February 2025*
+<p align="center">
+<img alt="code force output image" src="https://github.com/user-attachments/assets/51d5b2e3-80ec-4a67-9ddc-fd16f6435f02"/>
+<div align="center"> 
+    
+[submissions](https://codeforces.com/submissions/joseph)
+</div>
+</p>
+
+
+
+
+## *Lab No : 11*
 
 ## *Lab Workout : Programming Exercises*
 
-## *Submission Date : 14 January, 2025*
+## *Submission Date : 11 February, 2025*
 
 ---
 
