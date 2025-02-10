@@ -14,6 +14,7 @@
 <p align="center">
 <img alt="Problem 1 output image" src="https://github.com/user-attachments/assets/00961cbf-0518-4171-9b22-1e5ac6a89b75"/>
 </p>
+
 ## *Lab No : 07*
 
 ## *Lab Workout : Pointers*
