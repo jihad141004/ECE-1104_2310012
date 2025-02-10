@@ -9,3 +9,12 @@
 [submissions](https://codeforces.com/submissions/joseph)
 </div>
 </p>
+
+
+## *Lab No : 11*
+
+## *Lab Workout : Programming Exercises*
+
+## *Submission Date : 11 February, 2025*
+
+---
