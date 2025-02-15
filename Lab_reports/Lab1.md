@@ -185,7 +185,7 @@ void solve(){
     int n;
     printf("Enter the number:  ");
     scanf("%d", &n);
-    if(n<=2){
+    if(n<2){
         printf("NOT Prime\n");
         return;
     }
