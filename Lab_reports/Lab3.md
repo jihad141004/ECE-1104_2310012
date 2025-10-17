@@ -12,7 +12,7 @@ Write a program in C to create a Right Half Pyramid.
 </div>  
 
 ## *Code :*  
-~~~
+~~~C
 #include<stdio.h>
 
 void solve(){
@@ -49,7 +49,7 @@ Write a program in C to create an Inverted Left Half Pyramid.
 </div>  
 
 ## *Code :*  
-~~~
+~~~C
 #include<stdio.h>
 void solve(){
     int n = 5;
@@ -85,7 +85,7 @@ Write a program in C to create an Inverted Full Pyramid.
 </div>  
 
 ## *Code :*  
-~~~
+~~~C
 #include<stdio.h>
 
 void solve(){
@@ -122,7 +122,7 @@ Write a program in C to create a Rhombus Pattern.
 </div>  
 
 ## *Code :*  
-~~~
+~~~C
 #include<stdio.h>
 void solve(){
     int n = 5, m = 4;
@@ -158,7 +158,7 @@ Write a program in C to create a Hollow Square.
 </div>  
 
 ## *Code :*  
-~~~
+~~~C
 #include<stdio.h>
 void solve(){
     int n = 6, m = 5;
